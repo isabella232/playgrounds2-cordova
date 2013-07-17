@@ -3,10 +3,17 @@ Setup
 
 (This assumes you already have XCode.)
 
+Make yourself a virtualenv:
+
+* `mkvirtualenv --no-site-packages cordova`
+
 Install initial dependencies:
 
+* `brew update`
+* `brew upgrade node`
 * `brew install android-sdk`
 * `brew install ios-sim`
+* `pip install requirements.txt`
 
 Setup the Android SDK:
 

@@ -32,5 +32,3 @@ gzip
 
 platforms/android/bin
 platforms/android/gen
-platforms/ios/Playgrounds.xcodeproj
-platforms/ios/Playgrounds

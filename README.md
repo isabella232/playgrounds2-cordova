@@ -31,6 +31,8 @@ Run in the Android emulator:
 
 * `fab android`
 
+(Note: the first one or two times you run the Android emulator it will go through a initial device setup process and may fail to install the project. Just close the emulator and run it again.)
+
 Run in the iOS emulator:
 
 * `fab ios`
